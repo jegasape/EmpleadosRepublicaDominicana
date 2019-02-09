@@ -40,7 +40,7 @@ namespace Official.Core
                         alfa = 0;
                         scope += sequence[i];
                     }
-                    if (sequence[i] == ' '){
+                    else if (sequence[i] == ' '){
                         alfa++;
                         if (alfa <= 1)
                             scope += ' ';
