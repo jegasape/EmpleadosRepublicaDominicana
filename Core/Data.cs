@@ -16,7 +16,7 @@ namespace Official.Core
             var endPoint = new EndPoint();
             var client = new HttpClient();
             var document = new HtmlDocument();
-            for(var i = 1; i < 10; i++){
+            for(var i = 1; i < 1130; i++){
             request += await client.GetStringAsync(endPoint.Url(i));
             }
             document.LoadHtml(HttpUtility.HtmlDecode(request));
