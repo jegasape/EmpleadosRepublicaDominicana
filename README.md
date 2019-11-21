@@ -1,16 +1,16 @@
-# Empleados de la Republica Dominicana
+# Employees of the Dominican Republic
 
 ![N|Solid](https://img.shields.io/badge/build-passing-brightgreen.svg) ![N|Solid](https://img.shields.io/badge/.net%20core-%3E%202.1-brightgreen.svg) ![N|Solid](https://img.shields.io/badge/size-1.1%20MB-blue.svg) ![N|Solid](https://img.shields.io/github/license/mashape/apistatus.svg) ![N|Solid](https://img.shields.io/badge/release-v1.2-blue.svg)
 
-Obtener los empleados de la Republica Dominicana, Estado Dominicano, RD.
+Get employees from the Dominican Republic, Dominican State, RD.
 
-## Empezando
+## Starting
 
-Esta aplicacion esta creada con el motivo, de buscar a todos los empleados publicos de la republica dominicana y su informacion general dentro del estado.
+This application is created for the purpose of searching all public employees of the Dominican Republic and their general information within the state.
 
 ![N|Solid](https://user-images.githubusercontent.com/44595343/48740996-9e637d00-ec27-11e8-9e0c-062eeaad5821.png)
 
-### Prerrequisitos
+### Prerequisites
 
  Linux/Windows/MacOs
  
@@ -18,19 +18,19 @@ Esta aplicacion esta creada con el motivo, de buscar a todos los empleados publi
 
  Visual Studio Code
 
-## Construido
+## Built
 
 * [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-2-1) - Framework  utilizado.
 
-## Versiones
+## Versions
 
-Usamos [SemVer] (http://semver.org/) para las versiones. Para las versiones disponibles, consulte [etiquetas en este repositorio] (https://github.com/your/project/tags).
+We use [SemVer] (http://semver.org/) for the versions. For available versions, see [tags in this repository] (https://github.com/your/project/tags).
 
-## Autor
+## Author
 
 **Jeffrey Sanchez** - **Initial work**
 
-## Licencia
+## License
 
-Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE.md] (https://raw.githubusercontent.com/jegasape/Loterias-Dominicanas/master/LICENSE) para más detalles
+This project is licensed under the MIT License - see the file [LICENSE.md] (https://raw.githubusercontent.com/jegasape/Loterias-Dominicanas/master/LICENSE) for more details
 
