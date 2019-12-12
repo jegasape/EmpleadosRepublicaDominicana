@@ -20,7 +20,7 @@ This application is created for the purpose of searching all public employees of
 
 ## Built
 
-* [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-2-1) - Framework  utilizado.
+* [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-2-1) - Framework used.
 
 ## Versions
 
@@ -28,7 +28,7 @@ We use [SemVer] (http://semver.org/) for the versions. For available versions, s
 
 ## Author
 
-**Jeffrey Sanchez** - **Initial work**
+**Jeffrey Sanchez**
 
 ## License
 
